@@ -1,4 +1,4 @@
-## Whenever you want to give up, remember the young boy who waked up to pursue his dream.
+﻿## Whenever you want to give up, remember the young boy who waked up to pursue his dream.
 
 To compile each src code
 
