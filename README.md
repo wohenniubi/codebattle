@@ -1,4 +1,4 @@
-﻿## Whenever you want to give up, remember the young boy who waked up to pursue his dream.
+## Whenever you want to give up, remember the young boy who waked up to pursue his dream.
 
 To compile each src code
 
@@ -11,21 +11,33 @@ To compile each src code
 
 | # | Title | c++ | python | go | js | java | Difficulty |
 |---| ----- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
+| 64 | [$Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | [c++](./src/64_Minimum_Path_Sum/main.cpp) |  | | | | Medium |
+| 69 | [$Sqrt(x)](https://leetcode.com/problems/sqrtx/submissions/) | [c++](./src/69_Sqrt_X/main.cpp) |  | | | | Easy |
+| 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/submissions/) |  | [python](./src/70_Climing_Stairs/main.py) | | | | Easy |
+| 91 | [$Decode Ways](https://leetcode.com/problems/decode-ways/) | [c++](./src/91_Decode_Ways/main.cpp) |  | | | | Medium |
 | 123 | [$Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) | [c++](./src/123_Best_Time_to_Buy_and_Sell_Stock_III/main.cpp) | | | | | Hard |
 | 133 | [$Clone Graph](https://leetcode.com/problems/clone-graph/) | [c++](./src/133_Clone_Graph/main.cpp) |  |  |  |  | Medium |
 | 188 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) | [c++](./src/188_Best_Time_to_Buy_and_Sell_Stock_IV/main.cpp) | | | | | Hard |
+| 198 | [House Robber](https://leetcode.com/problems/house-robber/) |  | [python](./src/198_House_Robber/main.py) | | | | Easy |
+| 213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | [c++](./src/213_House_Robber_II/main.cpp) |  | | | | Medium |
+| 256 | [Paint House](https://leetcode.com/problems/paint-house/) | [c++](./src/256_Paint_House/main.cpp) |  | | | | Medium |
+| 265 | [$Paint House II](https://leetcode.com/problems/paint-house-ii/) | [c++](./src/265_Paint_House_II/main.cp) | | | | | Medium |
+| 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) |  | | | | | Medium |
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [c++](./src/300_Longest_Increasing_Subsequence/main.cpp) | | | | | Medium |
 | 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [c++](./src/309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown/main.cpp) | | | | | Medium |
 | 320 | [$Generalized Abbreviation](https://leetcode.com/problems/generalized-abbreviation/) |  |  |  |  |  | Medium |
 | 322 | [Coin Change](https://leetcode.com/problems/coin-change/) | [c++](./src/322_Coin_Change/main.cpp) | | | | | Medium |
+| 343 | [Integer Break](https://leetcode.com/problems/integer-break/) | [c++](./src/343_Integer_Break/main.cpp) | | | | | Medium |
 | 346 | [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/) | [c++](.src/346_Moving_Average_from_Data_Stream/main.cpp) |  |  |  |  | Easy |
 | 353 | [Design Snake Game](https://leetcode.com/problems/design-snake-game/) |  |  |  |  |  | Medium |
 | 358 | [Rearrange String k Distance Apart](https://leetcode.com/problems/rearrange-string-k-distance-apart/) | [c++](./src/358_Rearrange_String_k_Distance_Apart/main.cpp) | | | | | Hard |
 | 362 | [$Design Hit Counter](https://leetcode.com/problems/design-hit-counter/) | [c++](./src/362_Design_Hit_Counter/main.cpp) |  |  |  |  | Medium |
 | 376 | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | [c++](./src/376_Wiggle_Subsequence/main.cpp) | | | | [java](./src/376_Wiggle_Subsequence/Main.java) | Medium |
+| 413 | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) |  | | | |  | Medium |
 | 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/) | [c++](./src/416_Partition_Equal_Subset_Sum/main.cpp) | | | | | Medium |
 | 474 | [Ones and Zeros](https://leetcode.com/problems/ones-and-zeroes/) |  | | | | | Medium |
 | 494 | [Target Sum](https://leetcode.com/problems/target-sum/) |  | | | | | Medium |
+| 540 | [$Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/) | [c++](./src/540_Single_Element_in_a_Sorted_Array/main.cpp) | | | | | Medium |
 | 582 | [Kill Process](https://leetcode.com/problems/kill-process/) |  | | | | | Medium |
 | 583 | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | [c++](./src/583_Delete_Operation_for_Two_Strings/main.cpp) | | | | | Medium |
 | 588 | [$Design In-Memory File System](https://leetcode.com/problems/design-in-memory-file-system/) | [c++](./src/588_Design_In_Memory_File_System/main.cpp) |  |  |  |  | Hard |
@@ -37,6 +49,7 @@ To compile each src code
 | 707 | [$Design Linked List](https://leetcode.com/problems/design-linked-list/) | [c++](./src/707_Design_Linked_List/main.cpp) |  |  |  |  | Medium |
 | 714 | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/) | [c++](./src/714_Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee/main.cpp) | | | | | Medium |
 | 716 | [Max Stack](https://leetcode.com/problems/max-stack/) | [c++](./src/716_Max_Stack/main.cpp) |  |  |  |  | Easy |
+| 744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/submissions/) | [c++](./src/744_Find_Smallest_Letter_Greater_Than_Target/main.cpp) | | | | | Easy |
 | 767 | [Reorganize String](https://leetcode.com/problems/reorganize-string/) | [c++](./src/767_Reorganize_String/main.cpp) | | | | | Medium |
 | 998 | [Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/) | [c++](./src/998_Maximum_Binary_Tree_II/main.cp) | | | | | Medium |
 | 1025 | [Divisor Game](https://leetcode.com/problems/divisor-game/) | [c++](./src/1025_Divisor_Game/main.cpp) |  |  |  |  | Easy |
