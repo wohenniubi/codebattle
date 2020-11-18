@@ -11,17 +11,22 @@ To compile each src code
 
 | # | Title | c++ | python | go | js | java | Difficulty |
 |---| ----- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
+| 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [c++](./src/34_Find_First_and_Last_Position_of_Element_in_Sorted_Array/main.cpp) | | | | [java](./src/34_Find_First_and_Last_Position_of_Element_in_Sorted_Array/Main.java) | Medium |
+| 51 | [N-Queues](https://leetcode.com/problems/n-queens/) | [c++](./src/51_N_Queens/main.cpp) | | | |  | Hard |
 | 64 | [$Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | [c++](./src/64_Minimum_Path_Sum/main.cpp) |  | | | | Medium |
 | 69 | [$Sqrt(x)](https://leetcode.com/problems/sqrtx/submissions/) | [c++](./src/69_Sqrt_X/main.cpp) |  | | | | Easy |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/submissions/) |  | [python](./src/70_Climing_Stairs/main.py) | | | | Easy |
 | 91 | [$Decode Ways](https://leetcode.com/problems/decode-ways/) | [c++](./src/91_Decode_Ways/main.cpp) |  | | | | Medium |
 | 123 | [$Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) | [c++](./src/123_Best_Time_to_Buy_and_Sell_Stock_III/main.cpp) | | | | | Hard |
 | 133 | [$Clone Graph](https://leetcode.com/problems/clone-graph/) | [c++](./src/133_Clone_Graph/main.cpp) |  |  |  |  | Medium |
+| 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [c++](./src/153_Find_Minimum_in_Rotated_Sorted_Array/main.cpp) | | | | | Medium |
+| 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) |  | | | | | Hard |
 | 188 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) | [c++](./src/188_Best_Time_to_Buy_and_Sell_Stock_IV/main.cpp) | | | | | Hard |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) |  | [python](./src/198_House_Robber/main.py) | | | | Easy |
 | 213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | [c++](./src/213_House_Robber_II/main.cpp) |  | | | | Medium |
 | 256 | [Paint House](https://leetcode.com/problems/paint-house/) | [c++](./src/256_Paint_House/main.cpp) |  | | | | Medium |
 | 265 | [$Paint House II](https://leetcode.com/problems/paint-house-ii/) | [c++](./src/265_Paint_House_II/main.cp) | | | | | Medium |
+| 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [c++](./src/278_First_Bad_Version/main.cpp) | | | | | Easy |
 | 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) |  | | | | | Medium |
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [c++](./src/300_Longest_Increasing_Subsequence/main.cpp) | | | | | Medium |
 | 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [c++](./src/309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown/main.cpp) | | | | | Medium |
@@ -44,7 +49,8 @@ To compile each src code
 |635|[$Design Log Storage System](https://leetcode.com/problems/design-log-storage-system/)|[c++](./src/635_Design_Log_Storage_System/main.cp)| | | | |Medium|
 |650|[2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/submissions/)|[c++](./src/650_2_Keys_Keyboard/main.cpp)| | | | |Medium|
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/)|[c++](./src/654_Maximum_Binary_Tree/main.cpp)| | | | |Medium|
-|698|[Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/submissions/)|[c++](./src/698_Partition_to_K_Equal_Sum_Subsets/main.cpp)| | | | |Medium|
+|658|[Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)|[c++](./src/658_Find_K_closest_elements/main.cp)| | | | [java](./src/658_Find_K_closest_elements/Main.java) |Medium|
+|698|[Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/submissions/)|[c++](./src/698_Partition_to_K_Equal_Sum_Subsets/main.cpp)| | | | [java](./src/698_Partition_to_K_Equal_Sum_Subsets/Main.java) |Medium|
 | 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) |  | [python](./src/700_Search_in_a_Binary_Search_Tree/main.py) |  |  |  | Easy |
 | 707 | [$Design Linked List](https://leetcode.com/problems/design-linked-list/) | [c++](./src/707_Design_Linked_List/main.cpp) |  |  |  |  | Medium |
 | 714 | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/) | [c++](./src/714_Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee/main.cpp) | | | | | Medium |
