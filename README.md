@@ -5,6 +5,8 @@ To compile each src code
 - **C++** : g++ -std=c++17 src/1250_Check_If_It_Is_a_Good_Array/main.cpp
 - **Python** : python3  src/700_Search_in_a_Binary_Search_Tree/main.py
 - **java** : javac src/376_Wiggle_Subsequence/Main.java
+- **javascript** : node --use_strict src/809_Expressive_Words/main.js
+- **go** : go run src/226_Invert_Binary_Tree/main.go
 
 
 
@@ -26,6 +28,7 @@ To compile each src code
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) |  | [python](./src/198_House_Robber/main.py) | | | | Easy |
 | 213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | [c++](./src/213_House_Robber_II/main.cpp) |  | | | | Medium |
 | 215 | [$Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) |  | | | | [java](./src/215_Kth_Largest_Element_in_an_Array) | Medium |
+| 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | | | [go](./src/226_Invert_Binary_Tree/main.go) | |  | Easy |
 | 256 | [Paint House](https://leetcode.com/problems/paint-house/) | [c++](./src/256_Paint_House/main.cpp) |  | | | | Medium |
 | 265 | [$Paint House II](https://leetcode.com/problems/paint-house-ii/) | [c++](./src/265_Paint_House_II/main.cp) | | | | | Medium |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [c++](./src/278_First_Bad_Version/main.cpp) | | | | | Easy |
@@ -61,14 +64,18 @@ To compile each src code
 | 716 | [Max Stack](https://leetcode.com/problems/max-stack/) | [c++](./src/716_Max_Stack/main.cpp) |  |  |  |  | Easy |
 | 744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/submissions/) | [c++](./src/744_Find_Smallest_Letter_Greater_Than_Target/main.cpp) | | | | | Easy |
 | 767 | [Reorganize String](https://leetcode.com/problems/reorganize-string/) | [c++](./src/767_Reorganize_String/main.cpp) | | | | | Medium |
+| 809 | [Expressive Words](https://leetcode.com/problems/expressive-words/) | [c++](./src/809_Expressive_Words/main.cpp) | | | [js](./src/809_Expressive_Words/main.js) | | Medium |
+| 946 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/submissions/) | [c++](./src/946_Validate_Stack_Sequences/main.cpp) | | | | | Medium |
 | 998 | [Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/) | [c++](./src/998_Maximum_Binary_Tree_II/main.cp) | | | | | Medium |
 | 1025 | [Divisor Game](https://leetcode.com/problems/divisor-game/) | [c++](./src/1025_Divisor_Game/main.cpp) |  |  |  |  | Easy |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [c++](./src/1143_Longest_Common_Subsequence/main.cpp) | | | | | Medium |
+| 1209 | [$Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/submissions/) | [c++](./src/1209_Remove_All_Adjacent_Duplicates_in_String_II/main.cpp) | | | | | Medium |
 |1250|[Check If It Is a Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/)|[c++](./src/1250_Check_If_It_Is_a_Good_Array/main.cpp)| | | | |Hard|
 |1301|[Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-score/)|| | | | |Hard|
 |1339|[$Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/)|| | | | |Medium|
 |1359|[Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/)|[c++](./src/1359_Count_All_Valid_Pickup_and_Delivery_Options/main.cpp)| | | | |Hard|
 |1414|[Find the Minimum Number of Fibonacci Numbers Whose Sum Is K](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/)|[c++](./src/1414_Find_the_Minimum_Number_of_Fibonacci_Numbers_Whose_Sum_Is_K/main.cpp)| | | | |Medium|
+|1423|[Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)|[c++](./src/1423_Maximum_Points_You_Can_Obtain_from_Cards/main.cpp)| | | | |Medium|
 |1438|[Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)|[c++](./src/1438_Longest_Continuous_Subarray_With_Absolute_Diff_Less_Than_or_Equal_to_Limit/main.cpp)| | | | |Medium|
 |1462|[Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/submissions/)|| | | | |Medium|
 |1473|[Paint House III](https://leetcode.com/problems/paint-house-iii/)|[c++](./src/1473_Paint_House_III/main.cpp)| | | | |Hard|
