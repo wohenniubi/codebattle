@@ -14,12 +14,17 @@ To compile each src code
 | # | Title | c++ | python | go | js | java | Difficulty |
 |---| ----- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/) | [c++](./src/4_Median_of_two_sorted_arrays/main.cpp) | | | | [java](./src/4_Median_of_two_sorted_arrays/Main.java) | Hard |
+| 25 | [$Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [c++](./src/25_reverse_nodes_in_k_group/main.cpp) | [python](./src/25_reverse_nodes_in_k_group/main.py) | | |  | Hard |
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [c++](./src/34_Find_First_and_Last_Position_of_Element_in_Sorted_Array/main.cpp) | | | | [java](./src/34_Find_First_and_Last_Position_of_Element_in_Sorted_Array/Main.java) | Medium |
 | 51 | [N-Queues](https://leetcode.com/problems/n-queens/) | [c++](./src/51_N_Queens/main.cpp) | | | |  | Hard |
 | 64 | [$Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | [c++](./src/64_Minimum_Path_Sum/main.cpp) |  | | | | Medium |
 | 69 | [$Sqrt(x)](https://leetcode.com/problems/sqrtx/submissions/) | [c++](./src/69_Sqrt_X/main.cpp) |  | | | | Easy |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/submissions/) |  | [python](./src/70_Climing_Stairs/main.py) | | | | Easy |
 | 91 | [$Decode Ways](https://leetcode.com/problems/decode-ways/) | [c++](./src/91_Decode_Ways/main.cpp) |  | | | | Medium |
+| 98 | [Valid Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [c++](./src/98_Validate_Binary_Search_Tree/main.cpp) | | | | | Medium |
+| 105 | [$Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) |  | [python](./src/105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal/main.py) | | | | Medium |
+| 114 | [$Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) |  | [python](./src/114_Flatten_Binary_Tree_to_Linked_List/main.py) | | | | Medium |
+| 116 | [$Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) |  | [python](./src/116_Populating_Next_Right_Pointers_in_Each_Node/main.py) | | | | Medium |
 | 123 | [$Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) | [c++](./src/123_Best_Time_to_Buy_and_Sell_Stock_III/main.cpp) | | | | | Hard |
 | 133 | [$Clone Graph](https://leetcode.com/problems/clone-graph/) | [c++](./src/133_Clone_Graph/main.cpp) |  |  |  |  | Medium |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [c++](./src/153_Find_Minimum_in_Rotated_Sorted_Array/main.cpp) | | | | | Medium |
@@ -45,9 +50,11 @@ To compile each src code
 | 376 | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | [c++](./src/376_Wiggle_Subsequence/main.cpp) | | | | [java](./src/376_Wiggle_Subsequence/Main.java) | Medium |
 | 413 | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) |  | | | |  | Medium |
 | 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/) | [c++](./src/416_Partition_Equal_Subset_Sum/main.cpp) | | | | | Medium |
+| 450 | [$Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [c++](./src/450_Delete_Node_in_a_BST/main.cpp) | | | | | Medium |
 | 474 | [Ones and Zeros](https://leetcode.com/problems/ones-and-zeroes/) |  | | | | | Medium |
 | 494 | [Target Sum](https://leetcode.com/problems/target-sum/) |  | | | | | Medium |
 | 518 | [$Coin Change 2](https://leetcode.com/problems/coin-change-2/submissions/) | [c++](./src/518_Coin_Change_2/main.cpp) | | | | [java](./src/518_Coin_Change_2/Main.java) | Medium |
+| 538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [c++](./src/538_Convert_BST_to_Greater_Tree/main.cpp) | | | |  | Medium |
 | 540 | [$Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/) | [c++](./src/540_Single_Element_in_a_Sorted_Array/main.cpp) | | | | | Medium |
 | 582 | [Kill Process](https://leetcode.com/problems/kill-process/) |  | | | | | Medium |
 | 583 | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | [c++](./src/583_Delete_Operation_for_Two_Strings/main.cpp) | | | | | Medium |
@@ -55,7 +62,7 @@ To compile each src code
 |635|[$Design Log Storage System](https://leetcode.com/problems/design-log-storage-system/)|[c++](./src/635_Design_Log_Storage_System/main.cp)| | | | |Medium|
 |644|[$Maximum Average Subarray II](https://leetcode.com/problems/maximum-average-subarray-ii/submissions/)|[c++](./src/644_Maximum_Average_Subarray_II/main.cpp)| | | | [java](./src/644_Maximum_Average_Subarray_II/Main.java) |Hard|
 |650|[2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/submissions/)|[c++](./src/650_2_Keys_Keyboard/main.cpp)| | | | |Medium|
-|654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/)|[c++](./src/654_Maximum_Binary_Tree/main.cpp)| | | | |Medium|
+|654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/)|[c++](./src/654_Maximum_Binary_Tree/main.cpp)| [python](./src/654_Maximum_Binary_Tree/main.py) | | | |Medium|
 |658|[Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)|[c++](./src/658_Find_K_closest_elements/main.cp)| | | | [java](./src/658_Find_K_closest_elements/Main.java) |Medium|
 |698|[Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/submissions/)|[c++](./src/698_Partition_to_K_Equal_Sum_Subsets/main.cpp)| | | | [java](./src/698_Partition_to_K_Equal_Sum_Subsets/Main.java) |Medium|
 | 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) |  | [python](./src/700_Search_in_a_Binary_Search_Tree/main.py) |  |  |  | Easy |
@@ -86,4 +93,5 @@ To compile each src code
 |1564|[Put Boxes into the Warehouse I](https://leetcode.com/problems/put-boxes-into-the-warehouse-i/)|[c++](./src/1564_Put_Boxes_Into_the_Warehouse_I/main.cpp)| | | | |Medium|
 |1580|[Put Boxes into the Warehouse II](https://leetcode.com/problems/put-boxes-into-the-warehouse-ii/)|[c++](./src/1580_Put_Boxes_into_the_Warehouse_II/main.cpp)| | | | |Medium|
 |1594|[Maximum Non Negative Product in a Matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/)|[c++](./src/1594_Maximum_Non_Negative_Product_in_a_Matrix/main.cpp)| | | | |Medium|
+|1666|[Change the Root of a Binary Tree](https://leetcode.com/problems/change-the-root-of-a-binary-tree/)|[c++](./src/1666_Change_the_Root_of_a_Binary_Tree/main.cpp)| | | | |Medium|
 
