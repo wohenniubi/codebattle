@@ -14,6 +14,7 @@ To compile each src code
 | # | Title | c++ | python | go | js | java | Difficulty |
 |---| ----- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/) | [c++](./src/4_Median_of_two_sorted_arrays/main.cpp) | | | | [java](./src/4_Median_of_two_sorted_arrays/Main.java) | Hard |
+| 23 | [Merge K Sorted Array](https://leetcode.com/problems/merge-k-sorted-lists/submissions/) | [c++](./src/23_Merge_k_Sorted_Lists/main.cpp) | | | |  | Hard |
 | 25 | [$Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [c++](./src/25_reverse_nodes_in_k_group/main.cpp) | [python](./src/25_reverse_nodes_in_k_group/main.py) | | |  | Hard |
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [c++](./src/34_Find_First_and_Last_Position_of_Element_in_Sorted_Array/main.cpp) | | | | [java](./src/34_Find_First_and_Last_Position_of_Element_in_Sorted_Array/Main.java) | Medium |
 | 51 | [N-Queues](https://leetcode.com/problems/n-queens/) | [c++](./src/51_N_Queens/main.cpp) | | | |  | Hard |
@@ -21,6 +22,7 @@ To compile each src code
 | 69 | [$Sqrt(x)](https://leetcode.com/problems/sqrtx/submissions/) | [c++](./src/69_Sqrt_X/main.cpp) |  | | | | Easy |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/submissions/) |  | [python](./src/70_Climing_Stairs/main.py) | | | | Easy |
 | 91 | [$Decode Ways](https://leetcode.com/problems/decode-ways/) | [c++](./src/91_Decode_Ways/main.cpp) |  | | | | Medium |
+| 96 | [$Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [c++](./src/96_Unique_Binary_Search_Trees/main.cpp) | | | | | Medium |
 | 98 | [Valid Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [c++](./src/98_Validate_Binary_Search_Tree/main.cpp) | | | | | Medium |
 | 105 | [$Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) |  | [python](./src/105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal/main.py) | | | | Medium |
 | 114 | [$Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) |  | [python](./src/114_Flatten_Binary_Tree_to_Linked_List/main.py) | | | | Medium |
@@ -53,12 +55,14 @@ To compile each src code
 | 358 | [Rearrange String k Distance Apart](https://leetcode.com/problems/rearrange-string-k-distance-apart/) | [c++](./src/358_Rearrange_String_k_Distance_Apart/main.cpp) | | | | | Hard |
 | 362 | [$Design Hit Counter](https://leetcode.com/problems/design-hit-counter/) | [c++](./src/362_Design_Hit_Counter/main.cpp) |  |  |  |  | Medium |
 | 376 | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | [c++](./src/376_Wiggle_Subsequence/main.cpp) | | | | [java](./src/376_Wiggle_Subsequence/Main.java) | Medium |
+| 382 | [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) | [c++](./src/382_Linked_List_Random_Node/main.cpp) | | | |  | Medium |
 | 413 | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) |  | | | |  | Medium |
 | 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/) | [c++](./src/416_Partition_Equal_Subset_Sum/main.cpp) | | | | | Medium |
 | 450 | [$Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [c++](./src/450_Delete_Node_in_a_BST/main.cpp) | | | | | Medium |
 | 460 | [LFU Cache](https://leetcode.com/problems/lfu-cache/submissions/) | [c++](./src/460_LFU_Cache/main.cpp) | | | | | Hard |
 | 474 | [Ones and Zeros](https://leetcode.com/problems/ones-and-zeroes/) |  | | | | | Medium |
 | 494 | [Target Sum](https://leetcode.com/problems/target-sum/) |  | | | | | Medium |
+| 496 | [$Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/submissions/) | [c++](./src/496_Next_Greater_Element_I/main.cpp) | | | | | Easy |
 | 518 | [$Coin Change 2](https://leetcode.com/problems/coin-change-2/submissions/) | [c++](./src/518_Coin_Change_2/main.cpp) | | | | [java](./src/518_Coin_Change_2/Main.java) | Medium |
 | 538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [c++](./src/538_Convert_BST_to_Greater_Tree/main.cpp) | | | |  | Medium |
 | 540 | [$Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/) | [c++](./src/540_Single_Element_in_a_Sorted_Array/main.cpp) | | | | | Medium |
@@ -76,6 +80,7 @@ To compile each src code
 | 707 | [$Design Linked List](https://leetcode.com/problems/design-linked-list/) | [c++](./src/707_Design_Linked_List/main.cpp) |  |  |  |  | Medium |
 | 714 | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/) | [c++](./src/714_Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee/main.cpp) | | | | | Medium |
 | 716 | [Max Stack](https://leetcode.com/problems/max-stack/) | [c++](./src/716_Max_Stack/main.cpp) |  |  |  |  | Easy |
+| 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) |  | [python](./src/739_Daily_Temperatures/main.py) | | | | Medium |
 | 744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/submissions/) | [c++](./src/744_Find_Smallest_Letter_Greater_Than_Target/main.cpp) | | | | | Easy |
 | 767 | [Reorganize String](https://leetcode.com/problems/reorganize-string/) | [c++](./src/767_Reorganize_String/main.cpp) | | | | | Medium |
 | 809 | [Expressive Words](https://leetcode.com/problems/expressive-words/) | [c++](./src/809_Expressive_Words/main.cpp) | | | [js](./src/809_Expressive_Words/main.js) | | Medium |
