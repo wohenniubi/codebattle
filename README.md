@@ -18,16 +18,22 @@ To compile each src code
 | 3 | [$Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/) |  | [python](./src/3_Longest_Substring_Without_Repeating_Characters/main.py) | | |  | Medium |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/) | [c++](./src/4_Median_of_two_sorted_arrays/main.cpp) | | | | [java](./src/4_Median_of_two_sorted_arrays/Main.java) | Hard |
 | 15 | [$3Sum](https://leetcode.com/problems/3sum/) | [c++](./src/15_3Sum/main.cpp) | | | |  | Medium |
+| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) |  | [python](./src/22_Generate_Parentheses/main.py) | | |  | Medium |
 | 23 | [Merge K Sorted Array](https://leetcode.com/problems/merge-k-sorted-lists/submissions/) | [c++](./src/23_Merge_k_Sorted_Lists/main.cpp) | | | |  | Hard |
 | 25 | [$Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [c++](./src/25_reverse_nodes_in_k_group/main.cpp) | [python](./src/25_reverse_nodes_in_k_group/main.py) | | |  | Hard |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |  | [python](./src/26_Remove_Duplicates_from_Sorted_Array/main.py) | | | | Easy |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) |  | [python](./src/27_Remove_Element/main.py) | | | | Easy |
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [c++](./src/34_Find_First_and_Last_Position_of_Element_in_Sorted_Array/main.cpp) | | | | [java](./src/34_Find_First_and_Last_Position_of_Element_in_Sorted_Array/Main.java) | Medium |
+| 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [c++](./src/37_Sudoku_Solver/main.cpp) | | | |  | Hard |
+| 46 | [$Permutations](https://leetcode.com/problems/permutations/submissions/) |  | [python](./src/46_Permutations/main.py) | | |  | Medium |
 | 51 | [N-Queues](https://leetcode.com/problems/n-queens/) | [c++](./src/51_N_Queens/main.cpp) | | | |  | Hard |
+| 52 | [$N-Queues II](https://leetcode.com/problems/n-queens-ii/submissions/) |  | [python](./src/52_N_Queens_II/main.py) | | | | Hard |
 | 64 | [$Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | [c++](./src/64_Minimum_Path_Sum/main.cpp) |  | | | | Medium |
 | 69 | [$Sqrt(x)](https://leetcode.com/problems/sqrtx/submissions/) | [c++](./src/69_Sqrt_X/main.cpp) |  | | | | Easy |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/submissions/) |  | [python](./src/70_Climing_Stairs/main.py) | | | | Easy |
 | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [c++](./src/76_Minimum_Window_Substring/main.cpp) |  | | | | Hard |
+| 77 | [$Combinations](https://leetcode.com/problems/combinations/) |  | [python](./src/77_Combinations/main.py) | | | | Medium |
+| 78 | [Subsets](https://leetcode.com/problems/subsets/) | [c++](./src/78_subsets/main.cpp) | [python](./src/78_subsets/main.py) | | | | Medium |
 | 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [c++](./src/82_Remove_Duplicates_from_Sorted_List_II/main.cpp) | | | | | Medium |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) |  | [python](./src/83_Remove_Duplicates_from_Sorted_List/main.py) | | | | Easy |
 | 91 | [$Decode Ways](https://leetcode.com/problems/decode-ways/) | [c++](./src/91_Decode_Ways/main.cpp) |  | | | | Medium |
@@ -35,6 +41,7 @@ To compile each src code
 | 96 | [$Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [c++](./src/96_Unique_Binary_Search_Trees/main.cpp) | | | | | Medium |
 | 98 | [Valid Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [c++](./src/98_Validate_Binary_Search_Tree/main.cpp) | | | | | Medium |
 | 105 | [$Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) |  | [python](./src/105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal/main.py) | | | | Medium |
+| 111 | [$Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/submissions/) | [c++](./src/111_Minimum_Depth_of_Binary_Tree/main.cpp) |  | | | | Easy |
 | 114 | [$Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) |  | [python](./src/114_Flatten_Binary_Tree_to_Linked_List/main.py) | | | | Medium |
 | 116 | [$Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) |  | [python](./src/116_Populating_Next_Right_Pointers_in_Each_Node/main.py) | | | | Medium |
 | 123 | [$Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) | [c++](./src/123_Best_Time_to_Buy_and_Sell_Stock_III/main.cpp) | | | | | Hard |
@@ -49,6 +56,7 @@ To compile each src code
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | | [python](./src/206_Reverse_Linked_List/main.py) | | | | Easy |
 | 213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | [c++](./src/213_House_Robber_II/main.cpp) |  | | | | Medium |
 | 215 | [$Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) |  | | | | [java](./src/215_Kth_Largest_Element_in_an_Array) | Medium |
+| 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/) | | [python](./src/224_Basic_Calculator/main.py) | | |  | Hard |
 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/submissions/) | [c++](./src/225_Implement_Stack_using_Queues/main.cpp) | | | |  | Easy |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | | | [go](./src/226_Invert_Binary_Tree/main.go) | |  | Easy |
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [c++](./src/232_Implement_Queue_using_Stacks/main.cpp) | |  | | | Easy |
@@ -105,6 +113,7 @@ To compile each src code
 | 716 | [Max Stack](https://leetcode.com/problems/max-stack/) | [c++](./src/716_Max_Stack/main.cpp) |  |  |  |  | Easy |
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) |  | [python](./src/739_Daily_Temperatures/main.py) | | | | Medium |
 | 744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/submissions/) | [c++](./src/744_Find_Smallest_Letter_Greater_Than_Target/main.cpp) | | | | | Easy |
+| 752 | [$Open the lock](https://leetcode.com/problems/open-the-lock/submissions/) | [c++](./src/752_Open_the_Lock/main.cpp) | | | | | Medium |
 | 767 | [Reorganize String](https://leetcode.com/problems/reorganize-string/) | [c++](./src/767_Reorganize_String/main.cpp) | | | | | Medium |
 | 809 | [Expressive Words](https://leetcode.com/problems/expressive-words/) | [c++](./src/809_Expressive_Words/main.cpp) | | | [js](./src/809_Expressive_Words/main.js) | | Medium |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [c++](./src/875_Koko_Eating_Bananas/main.cpp) | | |  | | Medium |
