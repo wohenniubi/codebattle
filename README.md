@@ -53,36 +53,41 @@ To compile each src code
 | 167 | [$Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | | [python](./src/167_Two_Sum_II_Input_Array_is_Sorted/main.py) | | | | Easy |
 | 188 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) | [c++](./src/188_Best_Time_to_Buy_and_Sell_Stock_IV/main.cpp) | | | | | Hard |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) |  | [python](./src/198_House_Robber/main.py) | | | | Easy |
+| 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | | [python](./src/204_Count_Primes/main.py) | | | | Easy |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | | [python](./src/206_Reverse_Linked_List/main.py) | | | | Easy |
 | 213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | [c++](./src/213_House_Robber_II/main.cpp) |  | | | | Medium |
-| 215 | [$Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) |  | | | | [java](./src/215_Kth_Largest_Element_in_an_Array) | Medium |
+| 215 | [$Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [c++](./src/215_Kth_Largest_Element_in_an_Array/main.cpp) | | | | [java](./src/215_Kth_Largest_Element_in_an_Array) | Medium |
 | 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/) | | [python](./src/224_Basic_Calculator/main.py) | | |  | Hard |
 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/submissions/) | [c++](./src/225_Implement_Stack_using_Queues/main.cpp) | | | |  | Easy |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | | | [go](./src/226_Invert_Binary_Tree/main.go) | |  | Easy |
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [c++](./src/232_Implement_Queue_using_Stacks/main.cpp) | |  | | | Easy |
 | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | | [python](./src/236_Lowest_Common_Ancestor_of_a_Binary_Tree/main.py) |  | | | Medium |
 | 239 | [$Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [c++](./src/239_Sliding_Window_Maximum/main.cpp) |  | | | | Hard |
+| 241 | [Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) | [c++](./src/241_Different_Ways_to_Add_Parentheses/main.cpp) | | | | | Medium |
 | 256 | [Paint House](https://leetcode.com/problems/paint-house/) | [c++](./src/256_Paint_House/main.cpp) |  | | | | Medium |
 | 265 | [$Paint House II](https://leetcode.com/problems/paint-house-ii/) | [c++](./src/265_Paint_House_II/main.cp) | | | | | Medium |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [c++](./src/278_First_Bad_Version/main.cpp) | | | | | Easy |
 | 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) |  | | | | | Medium |
 | 283 | [Move Zeros](https://leetcode.com/problems/move-zeroes/) | | [python](./src/283_Move_Zeros/main.py) | | | | Easy |
+| 292 | [Nim Game](https://leetcode.com/problems/nim-game/submissions/) | [c++](./src/292_Nim_Game/main.cpp) |  | | | | Easy |
 | 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [c++](./src/295_Find_Median_from_Data_Stream/main.cpp) | | | | | Hard |
 | 297 | [$Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [c++](./src/297_Serialize_and_Deserialize_Binary_Tree/main.cpp) | | | | | Hard |
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [c++](./src/300_Longest_Increasing_Subsequence/main.cpp) | | | | | Medium |
 | 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [c++](./src/309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown/main.cpp) | | | | | Medium |
 | 316 | [$Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) |  | | | | | Medium |
 | 320 | [$Generalized Abbreviation](https://leetcode.com/problems/generalized-abbreviation/) |  |  |  |  |  | Medium |
-| 322 | [Coin Change](https://leetcode.com/problems/coin-change/) | [c++](./src/322_Coin_Change/main.cpp) | | | | | Medium |
+| 322 | [Coin Change](https://leetcode.com/problems/coin-change/) | [c++](./src/322_Coin_Change/main.cpp) | [python](./src/322_Coin_Change/main.py) | | | | Medium |
 | 341 | [$Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) |  | [python](./src/341_Flatten_Nested_List_Iterator/main.py) | | | | Medium |
 | 343 | [Integer Break](https://leetcode.com/problems/integer-break/) | [c++](./src/343_Integer_Break/main.cpp) | | | | | Medium |
 | 346 | [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/) | [c++](.src/346_Moving_Average_from_Data_Stream/main.cpp) |  |  |  |  | Easy |
 | 353 | [Design Snake Game](https://leetcode.com/problems/design-snake-game/) |  |  |  |  |  | Medium |
 | 358 | [Rearrange String k Distance Apart](https://leetcode.com/problems/rearrange-string-k-distance-apart/) | [c++](./src/358_Rearrange_String_k_Distance_Apart/main.cpp) | | | | | Hard |
 | 362 | [$Design Hit Counter](https://leetcode.com/problems/design-hit-counter/) | [c++](./src/362_Design_Hit_Counter/main.cpp) |  |  |  |  | Medium |
+| 372 | [Super Pow](https://leetcode.com/problems/super-pow/submissions/) | [c++](./src/372_Super_Pow/main.cpp) | | | | | Medium |
 | 376 | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | [c++](./src/376_Wiggle_Subsequence/main.cpp) | | | | [java](./src/376_Wiggle_Subsequence/Main.java) | Medium |
 | 380 | [$Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) |  | [python](./src/380_Insert_Delete_GetRandom_O1/main.py) | | |  | Medium |
 | 382 | [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) | [c++](./src/382_Linked_List_Random_Node/main.cpp) | | | |  | Medium |
+| 398 | [Random Pick Index](https://leetcode.com/problems/random-pick-index/) | [c++](./src/398_Random_pick_index/main.cpp) | [python](./src/398_Random_pick_index/main.py) | | | | Medium |
 | 413 | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) |  | | | |  | Medium |
 | 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/) | [c++](./src/416_Partition_Equal_Subset_Sum/main.cpp) | | | | | Medium |
 | 438 | [$Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [c++](./src/438_Find_All_Anagrams_in_a_String/main.cpp) | | | | | Medium |
@@ -95,12 +100,14 @@ To compile each src code
 | 518 | [$Coin Change 2](https://leetcode.com/problems/coin-change-2/submissions/) | [c++](./src/518_Coin_Change_2/main.cpp) | | | | [java](./src/518_Coin_Change_2/Main.java) | Medium |
 | 538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [c++](./src/538_Convert_BST_to_Greater_Tree/main.cpp) | | | |  | Medium |
 | 540 | [$Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/) | [c++](./src/540_Single_Element_in_a_Sorted_Array/main.cpp) | | | | | Medium |
+| 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) |                                                              | [python](./src/560_Subarray_Sum_Equals_K/main.py) | | | | Medium |
 | 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [c++](./src/567_Permutation_in_String/main.cpp) | | | | | Medium |
 | 582 | [Kill Process](https://leetcode.com/problems/kill-process/) |  | | | | | Medium |
 | 583 | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | [c++](./src/583_Delete_Operation_for_Two_Strings/main.cpp) | | | | | Medium |
 | 588 | [$Design In-Memory File System](https://leetcode.com/problems/design-in-memory-file-system/) | [c++](./src/588_Design_In_Memory_File_System/main.cpp) |  |  |  |  | Hard |
 |635|[$Design Log Storage System](https://leetcode.com/problems/design-log-storage-system/)|[c++](./src/635_Design_Log_Storage_System/main.cp)| | | | |Medium|
 |644|[$Maximum Average Subarray II](https://leetcode.com/problems/maximum-average-subarray-ii/submissions/)|[c++](./src/644_Maximum_Average_Subarray_II/main.cpp)| [python](./src/644_Maximum_Average_Subarray_II/main.py) | | | [java](./src/644_Maximum_Average_Subarray_II/Main.java) |Hard|
+|645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[c++](./src/645_Set_Mismatch/main.cpp)|  | | |  |Easy|
 |650|[2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/submissions/)|[c++](./src/650_2_Keys_Keyboard/main.cpp)| | | | |Medium|
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/)|[c++](./src/654_Maximum_Binary_Tree/main.cpp)| [python](./src/654_Maximum_Binary_Tree/main.py) | | | |Medium|
 |658|[Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)|[c++](./src/658_Find_K_closest_elements/main.cp)| | | | [java](./src/658_Find_K_closest_elements/Main.java) |Medium|
@@ -115,13 +122,16 @@ To compile each src code
 | 744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/submissions/) | [c++](./src/744_Find_Smallest_Letter_Greater_Than_Target/main.cpp) | | | | | Easy |
 | 752 | [$Open the lock](https://leetcode.com/problems/open-the-lock/submissions/) | [c++](./src/752_Open_the_Lock/main.cpp) | | | | | Medium |
 | 767 | [Reorganize String](https://leetcode.com/problems/reorganize-string/) | [c++](./src/767_Reorganize_String/main.cpp) | | | | | Medium |
+| 773 | [$Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/) | [c++](./src/773_Sliding_Puzzle/main.cpp) | | | | | Hard |
 | 809 | [Expressive Words](https://leetcode.com/problems/expressive-words/) | [c++](./src/809_Expressive_Words/main.cpp) | | | [js](./src/809_Expressive_Words/main.js) | | Medium |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [c++](./src/875_Koko_Eating_Bananas/main.cpp) | | |  | | Medium |
+| 877 | [Stone Game](https://leetcode.com/problems/stone-game/) | [c++](./src/877_Stone_Game/main.cpp) | | | | | Medium |
 | 946 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/submissions/) | [c++](./src/946_Validate_Stack_Sequences/main.cpp) | | | | | Medium |
 | 990 | [Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/submissions/) | [c++](./src/990_Satisfiability_of_Equality_Equations/main.cpp) | | | | | Medium |
 | 998 | [Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/) | [c++](./src/998_Maximum_Binary_Tree_II/main.cp) | | | | | Medium |
 | 1011 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) |  | [python](./src/1011_Capacity_to_Ship_Packages_in_D_Days/main.py) | | | | Medium |
 | 1025 | [Divisor Game](https://leetcode.com/problems/divisor-game/) | [c++](./src/1025_Divisor_Game/main.cpp) |  |  |  |  | Easy |
+| 1109 | [Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings/) | [c++](./src/1109_Corporate_Flight_Bookings/main.cpp) | | | | | Medium |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [c++](./src/1143_Longest_Common_Subsequence/main.cpp) | | | | | Medium |
 | 1209 | [$Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/submissions/) | [c++](./src/1209_Remove_All_Adjacent_Duplicates_in_String_II/main.cpp) | | | | | Medium |
 |1250|[Check If It Is a Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/)|[c++](./src/1250_Check_If_It_Is_a_Good_Array/main.cpp)| | | | |Hard|
