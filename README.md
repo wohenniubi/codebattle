@@ -50,7 +50,7 @@ To compile each src code
 | 114 | [$Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) |  | [python](./src/114_Flatten_Binary_Tree_to_Linked_List/main.py) | | | | Medium |
 | 116 | [$Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) |  | [python](./src/116_Populating_Next_Right_Pointers_in_Each_Node/main.py) | | | | Medium |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | | [python](./src/121_Best_Time_to_Buy_and_Sell_Stock/main.py) | | | | Easy |
-| 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | | [python](./src/122_Best_Time_to_Buy_and_Sell_Stock_II/main.py) | | | | Easy |
+| 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [c++](./src/122_Best_Time_to_Buy_and_Sell_Stock_II/main.cpp) | [python](./src/122_Best_Time_to_Buy_and_Sell_Stock_II/main.py) | | | | Easy |
 | 123 | [$Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) | [c++](./src/123_Best_Time_to_Buy_and_Sell_Stock_III/main.cpp) | [python](./src/123_Best_Time_to_Buy_and_Sell_Stock_III/main.py) | | | | Hard |
 | 133 | [$Clone Graph](https://leetcode.com/problems/clone-graph/) | [c++](./src/133_Clone_Graph/main.cpp) |  |  |  |  | Medium |
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [c++](./src/146_LRU_Cache/main.cpp) | | | | | Medium |
@@ -62,7 +62,7 @@ To compile each src code
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [c++](./src/198_House_Robber/main.cpp) | [python](./src/198_House_Robber/main.py) | | | | Easy |
 | 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | | [python](./src/204_Count_Primes/main.py) | | | | Easy |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | | [python](./src/206_Reverse_Linked_List/main.py) | | | | Easy |
-| 213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | [c++](./src/213_House_Robber_II/main.cpp) |  | | | | Medium |
+| 213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | [c++](./src/213_House_Robber_II/main.cpp) | [python](./src/213_House_Robber_II/main.py) | | | | Medium |
 | 215 | [$Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [c++](./src/215_Kth_Largest_Element_in_an_Array/main.cpp) | | | | [java](./src/215_Kth_Largest_Element_in_an_Array) | Medium |
 | 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/) | | [python](./src/224_Basic_Calculator/main.py) | | |  | Hard |
 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/submissions/) | [c++](./src/225_Implement_Stack_using_Queues/main.cpp) | | | |  | Easy |
@@ -108,12 +108,13 @@ To compile each src code
 | 460 | [LFU Cache](https://leetcode.com/problems/lfu-cache/submissions/) | [c++](./src/460_LFU_Cache/main.cpp) | | | | | Hard |
 | 474 | [Ones and Zeros](https://leetcode.com/problems/ones-and-zeroes/) |  | | | | | Medium |
 | 494 | [Target Sum](https://leetcode.com/problems/target-sum/) |  | [python](./src/494_Target_Sum/main.py) | | | | Medium |
-| 496 | [$Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/submissions/) | [c++](./src/496_Next_Greater_Element_I/main.cpp) | | | | | Easy |
-| 503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [c++](./src/503_Next_Greater_Element_II/main.cpp) | | | | | Medium |
+| 496 | [$Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/submissions/) | [c++](./src/496_Next_Greater_Element_I/main.cpp) | [python](./src/496_Next_Greater_Element_I/main.py) | | | | Easy |
+| 503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [c++](./src/503_Next_Greater_Element_II/main.cpp) | [python](./src/503_Next_Greater_Element_II/main.py) | | | | Medium |
 | 516 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) |  | [python](./src/516_Longest_Palindromic_Subsequence/main.py) | | | | Medium |
 | 518 | [$Coin Change 2](https://leetcode.com/problems/coin-change-2/submissions/) | [c++](./src/518_Coin_Change_2/main.cpp) | [python](./src/518_Coin_Change_2/main.py) | | | [java](./src/518_Coin_Change_2/Main.java) | Medium |
 | 538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [c++](./src/538_Convert_BST_to_Greater_Tree/main.cpp) | | | |  | Medium |
 | 540 | [$Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/) | [c++](./src/540_Single_Element_in_a_Sorted_Array/main.cpp) | | | | | Medium |
+| 556 | [$Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | [c++](./src/556_Next_Greater_Element_III/main.cpp) | | | | | Medium |
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) |                                                              | [python](./src/560_Subarray_Sum_Equals_K/main.py) | | | | Medium |
 | 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [c++](./src/567_Permutation_in_String/main.cpp) | | | | | Medium |
 | 582 | [Kill Process](https://leetcode.com/problems/kill-process/) |  | | | | | Medium |
@@ -141,14 +142,17 @@ To compile each src code
 | 773 | [$Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/) | [c++](./src/773_Sliding_Puzzle/main.cpp) | | | | | Hard |
 | 809 | [Expressive Words](https://leetcode.com/problems/expressive-words/) | [c++](./src/809_Expressive_Words/main.cpp) | | | [js](./src/809_Expressive_Words/main.js) | | Medium |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [c++](./src/875_Koko_Eating_Bananas/main.cpp) | | |  | | Medium |
+| 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [c++](./src/876_Middle_of_the_Linked_List/main.cpp) | | | | | Easy |
 | 877 | [Stone Game](https://leetcode.com/problems/stone-game/) | [c++](./src/877_Stone_Game/main.cpp) | | | | | Medium |
-| 887 | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop/) |  | [python](./src/887_Super_Egg_Drop/main.py) | | | | Hard |
+| 887 | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop/) | [c++](./src/887_Super_Egg_Drop/main.cpp) | [python](./src/887_Super_Egg_Drop/main.py) | | | | Hard |
 | 946 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/submissions/) | [c++](./src/946_Validate_Stack_Sequences/main.cpp) | | | | | Medium |
 | 990 | [Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/submissions/) | [c++](./src/990_Satisfiability_of_Equality_Equations/main.cpp) | | | | | Medium |
 | 998 | [Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/) | [c++](./src/998_Maximum_Binary_Tree_II/main.cp) | | | | | Medium |
 | 1011 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) |  | [python](./src/1011_Capacity_to_Ship_Packages_in_D_Days/main.py) | | | | Medium |
+| 1019 | [Next Greater Node in Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/) | [c++](./src/1019_Next_Greater_Node_in_Linked_List/main.cpp) |  | | | | Medium |
 | 1025 | [Divisor Game](https://leetcode.com/problems/divisor-game/) | [c++](./src/1025_Divisor_Game/main.cpp) |  |  |  |  | Easy |
 | 1109 | [Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings/) | [c++](./src/1109_Corporate_Flight_Bookings/main.cpp) | | | | | Medium |
+| 1140 | [Stone Game II](https://leetcode.com/problems/stone-game-ii/) |  | [python](./src/1140_Stone_Game_II/main.py) | | | | Medium |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [c++](./src/1143_Longest_Common_Subsequence/main.cpp) | [python](./src/1143_Longest_Common_Subsequence/main.py) | | | | Medium |
 | 1209 | [$Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/submissions/) | [c++](./src/1209_Remove_All_Adjacent_Duplicates_in_String_II/main.cpp) | | | | | Medium |
 |1250|[Check If It Is a Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/)|[c++](./src/1250_Check_If_It_Is_a_Good_Array/main.cpp)| | | | |Hard|
