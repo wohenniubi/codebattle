@@ -32,6 +32,7 @@ To compile each src code
 | 52 | [$N-Queues II](https://leetcode.com/problems/n-queens-ii/submissions/) |  | [python](./src/52_N_Queens_II/main.py) | | | | Hard |
 | 53 | [$Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | | [python](./src/53_Maximum_Subarray/main.py) | | | | Easy |
 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/submissions/) | | [python](./src/55_Jump_Game/main.py) | | | | Medium |
+| 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [c++](./src/56_Merge_Intervals/main.cpp) |  | | | | Medium |
 | 64 | [$Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | [c++](./src/64_Minimum_Path_Sum/main.cpp) | [python](./src/64_Minimum_Path_Sum/main.py) | | | | Medium |
 | 69 | [$Sqrt(x)](https://leetcode.com/problems/sqrtx/submissions/) | [c++](./src/69_Sqrt_X/main.cpp) |  | | | | Easy |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/submissions/) |  | [python](./src/70_Climing_Stairs/main.py) | | | | Easy |
@@ -69,7 +70,7 @@ To compile each src code
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | | | [go](./src/226_Invert_Binary_Tree/main.go) | |  | Easy |
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [c++](./src/232_Implement_Queue_using_Stacks/main.cpp) | |  | | | Easy |
 | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | | [python](./src/236_Lowest_Common_Ancestor_of_a_Binary_Tree/main.py) |  | | | Medium |
-| 239 | [$Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [c++](./src/239_Sliding_Window_Maximum/main.cpp) |  | | | | Hard |
+| 239 | [$Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [c++](./src/239_Sliding_Window_Maximum/main.cpp) | [python](./src/239_Sliding_Window_Maximum/main.py) | | | | Hard |
 | 241 | [Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) | [c++](./src/241_Different_Ways_to_Add_Parentheses/main.cpp) | | | | | Medium |
 | 256 | [Paint House](https://leetcode.com/problems/paint-house/) | [c++](./src/256_Paint_House/main.cpp) |  | | | | Medium |
 | 265 | [$Paint House II](https://leetcode.com/problems/paint-house-ii/) | [c++](./src/265_Paint_House_II/main.cp) | | | | | Medium |
@@ -77,7 +78,7 @@ To compile each src code
 | 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) |  | | | | | Medium |
 | 283 | [Move Zeros](https://leetcode.com/problems/move-zeroes/) | | [python](./src/283_Move_Zeros/main.py) | | | | Easy |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/submissions/) | [c++](./src/292_Nim_Game/main.cpp) |  | | | | Easy |
-| 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [c++](./src/295_Find_Median_from_Data_Stream/main.cpp) | | | | | Hard |
+| 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [c++](./src/295_Find_Median_from_Data_Stream/main.cpp) | [python](./src/295_Find_Median_from_Data_Stream/main.py) | | | | Hard |
 | 297 | [$Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [c++](./src/297_Serialize_and_Deserialize_Binary_Tree/main.cpp) | | | | | Hard |
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [c++](./src/300_Longest_Increasing_Subsequence/main.cpp) | [python](./src/300_Longest_Increasing_Subsequence/main.py) | | | | Medium |
 | 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [c++](./src/309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown/main.cpp) | | | | | Medium |
@@ -107,6 +108,7 @@ To compile each src code
 | 452 | [$Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/submissions/) | [c++](./src/452_Minimum_Number_of_Arrows_to_Burst_Balloons/main.cpp) | | | | | Medium |
 | 460 | [LFU Cache](https://leetcode.com/problems/lfu-cache/submissions/) | [c++](./src/460_LFU_Cache/main.cpp) | | | | | Hard |
 | 474 | [Ones and Zeros](https://leetcode.com/problems/ones-and-zeroes/) |  | | | | | Medium |
+| 480 | [$Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) | | [python](./src/480_Sliding_Window_Median) | | | | Hard |
 | 494 | [Target Sum](https://leetcode.com/problems/target-sum/) |  | [python](./src/494_Target_Sum/main.py) | | | | Medium |
 | 496 | [$Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/submissions/) | [c++](./src/496_Next_Greater_Element_I/main.cpp) | [python](./src/496_Next_Greater_Element_I/main.py) | | | | Easy |
 | 503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [c++](./src/503_Next_Greater_Element_II/main.cpp) | [python](./src/503_Next_Greater_Element_II/main.py) | | | | Medium |
@@ -138,6 +140,7 @@ To compile each src code
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) |  | [python](./src/739_Daily_Temperatures/main.py) | | | | Medium |
 | 744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/submissions/) | [c++](./src/744_Find_Smallest_Letter_Greater_Than_Target/main.cpp) | | | | | Easy |
 | 752 | [$Open the lock](https://leetcode.com/problems/open-the-lock/submissions/) | [c++](./src/752_Open_the_Lock/main.cpp) | | | | | Medium |
+| 759 | [$Employee Free Time](https://leetcode.com/problems/employee-free-time/submissions/) | [c++](./src/759_Employee_Free_Time/main.cpp) | | | | | Hard |
 | 767 | [Reorganize String](https://leetcode.com/problems/reorganize-string/) | [c++](./src/767_Reorganize_String/main.cpp) | | | | | Medium |
 | 773 | [$Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/) | [c++](./src/773_Sliding_Puzzle/main.cpp) | | | | | Hard |
 | 809 | [Expressive Words](https://leetcode.com/problems/expressive-words/) | [c++](./src/809_Expressive_Words/main.cpp) | | | [js](./src/809_Expressive_Words/main.js) | | Medium |
@@ -146,16 +149,20 @@ To compile each src code
 | 877 | [Stone Game](https://leetcode.com/problems/stone-game/) | [c++](./src/877_Stone_Game/main.cpp) | | | | | Medium |
 | 887 | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop/) | [c++](./src/887_Super_Egg_Drop/main.cpp) | [python](./src/887_Super_Egg_Drop/main.py) | | | | Hard |
 | 946 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/submissions/) | [c++](./src/946_Validate_Stack_Sequences/main.cpp) | | | | | Medium |
+| 986 | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) |  | [python](./src/986_Interval_List_Intersections/main.py) | | | | Medium |
 | 990 | [Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/submissions/) | [c++](./src/990_Satisfiability_of_Equality_Equations/main.cpp) | | | | | Medium |
 | 998 | [Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/) | [c++](./src/998_Maximum_Binary_Tree_II/main.cp) | | | | | Medium |
 | 1011 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) |  | [python](./src/1011_Capacity_to_Ship_Packages_in_D_Days/main.py) | | | | Medium |
 | 1019 | [Next Greater Node in Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/) | [c++](./src/1019_Next_Greater_Node_in_Linked_List/main.cpp) |  | | | | Medium |
 | 1025 | [Divisor Game](https://leetcode.com/problems/divisor-game/) | [c++](./src/1025_Divisor_Game/main.cpp) |  |  |  |  | Easy |
+| 1059 | [$All Paths from Source Lead to Destination](https://leetcode.com/problems/all-paths-from-source-lead-to-destination/) |  | [python](./src/1059_All_Paths_from_Source_Lead_to_Destination/main.py) | | | | Medium |
 | 1109 | [Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings/) | [c++](./src/1109_Corporate_Flight_Bookings/main.cpp) | | | | | Medium |
 | 1140 | [Stone Game II](https://leetcode.com/problems/stone-game-ii/) |  | [python](./src/1140_Stone_Game_II/main.py) | | | | Medium |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [c++](./src/1143_Longest_Common_Subsequence/main.cpp) | [python](./src/1143_Longest_Common_Subsequence/main.py) | | | | Medium |
 | 1209 | [$Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/submissions/) | [c++](./src/1209_Remove_All_Adjacent_Duplicates_in_String_II/main.cpp) | | | | | Medium |
+| 1245 | [$Tree Diameter](https://leetcode.com/problems/tree-diameter/) | [c++](./src/1245_Tree_Diameter/main.cpp) | | | | | Medium |
 |1250|[Check If It Is a Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/)|[c++](./src/1250_Check_If_It_Is_a_Good_Array/main.cpp)| | | | |Hard|
+|1288|[$Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/)|[c++](./src/1288_Remove_Covered_Intervals/main.cpp)| | | | |Medium|
 |1301|[Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-score/)|| | | | |Hard|
 |1339|[$Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/)|| | | | |Medium|
 |1359|[Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/)|[c++](./src/1359_Count_All_Valid_Pickup_and_Delivery_Options/main.cpp)| | | | |Hard|
@@ -174,4 +181,5 @@ To compile each src code
 |1594|[Maximum Non Negative Product in a Matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/)|[c++](./src/1594_Maximum_Non_Negative_Product_in_a_Matrix/main.cpp)| | | | |Medium|
 |1644|[Lowest Common Ancestor of a Binary Tree II](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-ii/)|| [python](./src/1644_Lowest_Common_Ancestor_of_a_Binary_Tree_II/main.py) | | | |Medium|
 |1666|[Change the Root of a Binary Tree](https://leetcode.com/problems/change-the-root-of-a-binary-tree/)|[c++](./src/1666_Change_the_Root_of_a_Binary_Tree/main.cpp)| | | | |Medium|
+|1696|[$Jump Game VI](https://leetcode.com/problems/jump-game-vi/)|| [python](./src/1696_Jump_Game_VI/main.py) | | | |Medium|
 
