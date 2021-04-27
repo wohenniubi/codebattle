@@ -63,22 +63,29 @@ To compile each src code
 | 133 | [$Clone Graph](https://leetcode.com/problems/clone-graph/) | [c++](./src/133_Clone_Graph/main.cpp) |  |  |  |  | Medium |
 | 135 | [Candy](https://leetcode.com/problems/candy/) | [c++](./src/135_Candy/main.cpp) | | | | | Hard |
 | 137 | [$Single Number II](https://leetcode.com/problems/single-number-ii/) | [c++](./src/137_Single_Number_II/main.cpp) | | | | | Medium |
+| 143 | [$Reorder List](https://leetcode.com/problems/reorder-list/) | [c++](./src/143_Reorder_List/main.cpp) | | | | | Medium |
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [c++](./src/146_LRU_Cache/main.cpp) | | | | | Medium |
 | 147 | [$Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | [c++](./src/147_Insertion_Sort_List/main.cpp) | | | | | Medium |
 | 148 | [Sort List](https://leetcode.com/problems/sort-list/) |  | [python](./src/148_Sort_List/main.py) | | | | Medium |
+| 149 | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/submissions/) | [c++](./src/149_Max_Points_on_a_Line/main.cpp) |  | | | | Hard |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [c++](./src/153_Find_Minimum_in_Rotated_Sorted_Array/main.cpp) | | | | | Medium |
-| 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) |  | | | | | Hard |
+| 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [c++](./src/154_Find_Minimum_in_Rotated_Sorted_Array_II/main.cpp) | | | | | Hard |
 | 167 | [$Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | | [python](./src/167_Two_Sum_II_Input_Array_is_Sorted/main.py) | | | | Easy |
 | 188 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) | [c++](./src/188_Best_Time_to_Buy_and_Sell_Stock_IV/main.cpp) | | | | | Hard |
+| 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [c++](./src/191_Number_of_1_Bits/main.cpp) | | | | | Easy |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [c++](./src/198_House_Robber/main.cpp) | [python](./src/198_House_Robber/main.py) | | | | Easy |
+| 201 | [$Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [c++](./src/201_Bitwise_AND_of_Numbers_Range/main.cpp) |  | | | | Medium |
 | 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | | [python](./src/204_Count_Primes/main.py) | | | | Easy |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | | [python](./src/206_Reverse_Linked_List/main.py) | | | | Easy |
+| 212 | [$Word Search II](https://leetcode.com/problems/word-search-ii/) | [c++](./src/212_Word_Search_II/main.cpp) |  | | | | Hard |
 | 213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | [c++](./src/213_House_Robber_II/main.cpp) | [python](./src/213_House_Robber_II/main.py) | | | | Medium |
+| 214 | [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/) | [c++](./src/214_Shortest_Palindrome/main.cpp) |  | | | | Hard |
 | 215 | [$Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [c++](./src/215_Kth_Largest_Element_in_an_Array/main.cpp) | | | | [java](./src/215_Kth_Largest_Element_in_an_Array) | Medium |
 | 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/) | [c++](./src/224_Basic_Calculator/main.cpp) | [python](./src/224_Basic_Calculator/main.py) | | |  | Hard |
 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/submissions/) | [c++](./src/225_Implement_Stack_using_Queues/main.cpp) | | | |  | Easy |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | | | [go](./src/226_Invert_Binary_Tree/main.go) | |  | Easy |
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [c++](./src/232_Implement_Queue_using_Stacks/main.cpp) | |  | | | Easy |
+| 233 | [Number of Digit One](https://leetcode.com/problems/number-of-digit-one/submissions/) | [c++](./src/233_Number_of_Digit_One/main.cpp) | | | | | Hard |
 | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | | [python](./src/236_Lowest_Common_Ancestor_of_a_Binary_Tree/main.py) |  | | | Medium |
 | 239 | [$Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [c++](./src/239_Sliding_Window_Maximum/main.cpp) | [python](./src/239_Sliding_Window_Maximum/main.py) | | | | Hard |
 | 241 | [Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) | [c++](./src/241_Different_Ways_to_Add_Parentheses/main.cpp) | | | | | Medium |
@@ -116,8 +123,10 @@ To compile each src code
 | 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/) | [c++](./src/416_Partition_Equal_Subset_Sum/main.cpp) | | | | | Medium |
 | 435 | [$Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [c++](./src/435_Non_overlapping_Intervals/main.cpp) | | | | | Medium |
 | 438 | [$Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [c++](./src/438_Find_All_Anagrams_in_a_String/main.cpp) | | | | | Medium |
+| 449 | [$Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/) | [c++](./src/449_Serialize_and_Deserialize_BST/main.cpp) | | | | | Medium |
 | 450 | [$Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [c++](./src/450_Delete_Node_in_a_BST/main.cpp) | | | | | Medium |
 | 452 | [$Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/submissions/) | [c++](./src/452_Minimum_Number_of_Arrows_to_Burst_Balloons/main.cpp) | | | | | Medium |
+| 459 | [$Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/submissions/) | [c++](./src/459_Repeated_Substring_Pattern/main.cpp) | | | | | Easy |
 | 460 | [LFU Cache](https://leetcode.com/problems/lfu-cache/submissions/) | [c++](./src/460_LFU_Cache/main.cpp) | | | | | Hard |
 | 474 | [Ones and Zeros](https://leetcode.com/problems/ones-and-zeroes/) |  | | | | | Medium |
 | 480 | [$Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) | | [python](./src/480_Sliding_Window_Median) | | | | Hard |
