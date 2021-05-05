@@ -90,15 +90,24 @@ To compile each src code
 | 239 | [$Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [c++](./src/239_Sliding_Window_Maximum/main.cpp) | [python](./src/239_Sliding_Window_Maximum/main.py) | | | | Hard |
 | 241 | [Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) | [c++](./src/241_Different_Ways_to_Add_Parentheses/main.cpp) | | | | | Medium |
 | 256 | [Paint House](https://leetcode.com/problems/paint-house/) | [c++](./src/256_Paint_House/main.cpp) |  | | | | Medium |
+| 260 | [$Single Number III](https://leetcode.com/problems/single-number-iii/) | [c++](./src/260_Single_Number_III/main.cpp) | | | | | Medium |
+| 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [c++](./src/263_Ugly_Number/main.cpp) | | | | | Easy |
+| 264 | [$Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [c++](./src/264_Ugly_Number_II/main.cpp) | | | | | Medium |
 | 265 | [$Paint House II](https://leetcode.com/problems/paint-house-ii/) | [c++](./src/265_Paint_House_II/main.cp) | | | | | Medium |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [c++](./src/278_First_Bad_Version/main.cpp) | | | | | Easy |
 | 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) |  | | | | | Medium |
+| 282 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators/submissions/) | [c++](./src/282_Expression_Add_Operators/main.cpp) | | | | | Hard |
 | 283 | [Move Zeros](https://leetcode.com/problems/move-zeroes/) | | [python](./src/283_Move_Zeros/main.py) | | | | Easy |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/submissions/) | [c++](./src/292_Nim_Game/main.cpp) |  | | | | Easy |
+| 294 | [Flip Game II](https://leetcode.com/problems/flip-game-ii/) | [c++](./src/294_Flip_Game_II/main.cpp) | | | | | Medium |
 | 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [c++](./src/295_Find_Median_from_Data_Stream/main.cpp) | [python](./src/295_Find_Median_from_Data_Stream/main.py) | | | | Hard |
+| 296 | [$Best Meeting Point](https://leetcode.com/problems/best-meeting-point/) | [c++](./src/296_Best_Meeting_Point/main.cpp) |  | | | | Hard |
 | 297 | [$Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [c++](./src/297_Serialize_and_Deserialize_Binary_Tree/main.cpp) | | | | | Hard |
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [c++](./src/300_Longest_Increasing_Subsequence/main.cpp) | [python](./src/300_Longest_Increasing_Subsequence/main.py) | | | | Medium |
+| 302 | [$Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/) | [c++](./src/302_Smallest_Rectangle_Enclosing_Black_Pixels/main.cpp) |  | | | | Hard |
 | 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [c++](./src/309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown/main.cpp) | | | | | Medium |
+| 310 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/submissions/) |  | | | | | Medium |
+| 311 | [Sparse Matrix Multiplication](https://leetcode.com/problems/sparse-matrix-multiplication/) | [c++](./src/311_Sparse_Matrix_Multiplication/main.cpp) | | | | | Medium |
 | 312 | [$Burst Balloons](https://leetcode.com/problems/burst-balloons/) |  | [python](./src/312_Burst_Balloons/main.py) | | | | Hard |
 | 316 | [$Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) |  | | | | | Medium |
 | 320 | [$Generalized Abbreviation](https://leetcode.com/problems/generalized-abbreviation/) |  |  |  |  |  | Medium |
@@ -121,6 +130,7 @@ To compile each src code
 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [c++](./src/409_Longest_Palindrome/main.cpp) | [python](./src/409_Longest_Palindrome/main.py) | | | | Easy |
 | 413 | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) |  | | | |  | Medium |
 | 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/) | [c++](./src/416_Partition_Equal_Subset_Sum/main.cpp) | | | | | Medium |
+| 419 | [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/) | [c++](./src/419_Battleships_in_a_Board/main.cpp) | | | | | Medium |
 | 435 | [$Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [c++](./src/435_Non_overlapping_Intervals/main.cpp) | | | | | Medium |
 | 438 | [$Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [c++](./src/438_Find_All_Anagrams_in_a_String/main.cpp) | | | | | Medium |
 | 449 | [$Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/) | [c++](./src/449_Serialize_and_Deserialize_BST/main.cpp) | | | | | Medium |
@@ -183,6 +193,7 @@ To compile each src code
 | 1109 | [Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings/) | [c++](./src/1109_Corporate_Flight_Bookings/main.cpp) | | | | | Medium |
 | 1140 | [Stone Game II](https://leetcode.com/problems/stone-game-ii/) |  | [python](./src/1140_Stone_Game_II/main.py) | | | | Medium |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [c++](./src/1143_Longest_Common_Subsequence/main.cpp) | [python](./src/1143_Longest_Common_Subsequence/main.py) | | | | Medium |
+| 1201 | [Ugly Number III](https://leetcode.com/problems/ugly-number-iii/) | [c++](./src/1201_Ugly_Number_III/main.cpp) |  | | | | Medium |
 | 1209 | [$Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/submissions/) | [c++](./src/1209_Remove_All_Adjacent_Duplicates_in_String_II/main.cpp) | | | | | Medium |
 | 1245 | [$Tree Diameter](https://leetcode.com/problems/tree-diameter/) | [c++](./src/1245_Tree_Diameter/main.cpp) | | | | | Medium |
 |1250|[Check If It Is a Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/)|[c++](./src/1250_Check_If_It_Is_a_Good_Array/main.cpp)| | | | |Hard|
