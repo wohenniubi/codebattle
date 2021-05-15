@@ -110,16 +110,22 @@ To compile each src code
 | 311 | [Sparse Matrix Multiplication](https://leetcode.com/problems/sparse-matrix-multiplication/) | [c++](./src/311_Sparse_Matrix_Multiplication/main.cpp) | | | | | Medium |
 | 312 | [$Burst Balloons](https://leetcode.com/problems/burst-balloons/) |  | [python](./src/312_Burst_Balloons/main.py) | | | | Hard |
 | 316 | [$Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) |  | | | | | Medium |
-| 320 | [$Generalized Abbreviation](https://leetcode.com/problems/generalized-abbreviation/) |  |  |  |  |  | Medium |
+| 317 | [Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings/submissions/) | [c++](./src/317_Shortest_Distance_from_All_Buildings/main.cpp) | | | | | Hard |
+| 318 | [$Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/) | [c++](./src/318_Maximum_Product_of_Word_Lengths/main.cpp) | | | | | Medium |
+| 320 | [$Generalized Abbreviation](https://leetcode.com/problems/generalized-abbreviation/) | [c++](./src/320_Generalized_Abbreviation/main.cpp) |  |  |  |  | Medium |
 | 322 | [Coin Change](https://leetcode.com/problems/coin-change/) | [c++](./src/322_Coin_Change/main.cpp) | [python](./src/322_Coin_Change/main.py) | | | | Medium |
+| 323 | [$Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) | [c++](./src/323_Number_of_Connected_Components_in_an_Undirected_Graph/main.cpp) |  | | | | Medium |
+| 333 | [Largest BST Tree](https://leetcode.com/problems/largest-bst-subtree/) | [c++](./src/333_Largest_BST_Subtree/main.cpp) |  | | | | Medium |
 | 337 | [House Robber III](https://leetcode.com/problems/house-robber-iii/) |  | [python](./src/337_House_Robber_III/main.py) | | | | Medium |
 | 341 | [$Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) |  | [python](./src/341_Flatten_Nested_List_Iterator/main.py) | | | | Medium |
 | 343 | [Integer Break](https://leetcode.com/problems/integer-break/) | [c++](./src/343_Integer_Break/main.cpp) | | | | | Medium |
 | 346 | [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/) | [c++](.src/346_Moving_Average_from_Data_Stream/main.cpp) |  |  |  |  | Easy |
-| 353 | [Design Snake Game](https://leetcode.com/problems/design-snake-game/) |  |  |  |  |  | Medium |
+| 353 | [$Design Snake Game](https://leetcode.com/problems/design-snake-game/) | [c++](./src/353_Design_Snake_Game/main.cpp) |  |  |  |  | Medium |
 | 354 | [$Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/) | [c++](./src/354_Russion_Doll_Envelopes/main.cpp) | | | | | Hard |
 | 358 | [Rearrange String k Distance Apart](https://leetcode.com/problems/rearrange-string-k-distance-apart/) | [c++](./src/358_Rearrange_String_k_Distance_Apart/main.cpp) | | | | | Hard |
+| 361 | [$Bomb Enemy](https://leetcode.com/problems/bomb-enemy/submissions/) | [c++](./src/361_Bomb_Enemy/main.cpp) | | | | | Medium |
 | 362 | [$Design Hit Counter](https://leetcode.com/problems/design-hit-counter/) | [c++](./src/362_Design_Hit_Counter/main.cpp) |  |  |  |  | Medium |
+| 363 | [Max Sum of Rectangle No larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/) | [c++](./src/363_Max_Sum_of_Rectangle_No_Larger_Than_K/main.cpp) | | | | | Hard |
 | 372 | [Super Pow](https://leetcode.com/problems/super-pow/submissions/) | [c++](./src/372_Super_Pow/main.cpp) | | | | | Medium |
 | 376 | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | [c++](./src/376_Wiggle_Subsequence/main.cpp) | | | | [java](./src/376_Wiggle_Subsequence/Main.java) | Medium |
 | 380 | [$Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) |  | [python](./src/380_Insert_Delete_GetRandom_O1/main.py) | | |  | Medium |
@@ -127,7 +133,11 @@ To compile each src code
 | 391 | [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/) |  | [python](./src/391_Perfect_Rectangle/main.py) | | | | Hard |
 | 392 | [$Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [c++](./src/392_Is_Subsequence/main.cpp) | [python](./src/392_Is_Subsequence/main.py) | | | | Easy |
 | 398 | [Random Pick Index](https://leetcode.com/problems/random-pick-index/) | [c++](./src/398_Random_pick_index/main.cpp) | [python](./src/398_Random_pick_index/main.py) | | | | Medium |
+| 401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | [c++](./src/401_Binary_Watch/main.cpp) |  | | | | Easy |
+| 407 | [Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/) | [c++](./src/407_Trapping_Rain_Water_II/main.cpp) |  | | | | Hard |
+| 408 | [Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/) | [c++](./src/418_Valid_Word_Abbreviation/main.cpp) |  | | | | Easy |
 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [c++](./src/409_Longest_Palindrome/main.cpp) | [python](./src/409_Longest_Palindrome/main.py) | | | | Easy |
+| 411 | [Minimum Unique Word Abbreviation](https://leetcode.com/problems/minimum-unique-word-abbreviation/) | [c++](./src/411_Minimum_Unique_Word_Abbreviation/main.cpp) |  | | | | Hard |
 | 413 | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) |  | | | |  | Medium |
 | 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/) | [c++](./src/416_Partition_Equal_Subset_Sum/main.cpp) | | | | | Medium |
 | 419 | [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/) | [c++](./src/419_Battleships_in_a_Board/main.cpp) | | | | | Medium |
