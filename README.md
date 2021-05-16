@@ -212,6 +212,7 @@ To compile each src code
 |1339|[$Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/)|| | | | |Medium|
 |1359|[Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/)|[c++](./src/1359_Count_All_Valid_Pickup_and_Delivery_Options/main.cpp)| | | | |Hard|
 |1367|[Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/)|[c++](./src/1367_Linked_List_in_Binary_Tree/main.cpp)| [python](./src/1367_Linked_List_in_Binary_Tree/main.py) | | | |Medium|
+|1396|[$Design Underground System](https://leetcode.com/problems/design-underground-system/)|[c++](./src/1396_Design_Underground_System/main.cpp)|  | | | |Medium|
 |1414|[Find the Minimum Number of Fibonacci Numbers Whose Sum Is K](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/)|[c++](./src/1414_Find_the_Minimum_Number_of_Fibonacci_Numbers_Whose_Sum_Is_K/main.cpp)| | | | |Medium|
 |1423|[Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)|[c++](./src/1423_Maximum_Points_You_Can_Obtain_from_Cards/main.cpp)| | | | |Medium|
 |1438|[Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)|[c++](./src/1438_Longest_Continuous_Subarray_With_Absolute_Diff_Less_Than_or_Equal_to_Limit/main.cpp)| | | | |Medium|
