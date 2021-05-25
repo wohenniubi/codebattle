@@ -138,18 +138,27 @@ To compile each src code
 | 408 | [Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/) | [c++](./src/418_Valid_Word_Abbreviation/main.cpp) |  | | | | Easy |
 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [c++](./src/409_Longest_Palindrome/main.cpp) | [python](./src/409_Longest_Palindrome/main.py) | | | | Easy |
 | 411 | [Minimum Unique Word Abbreviation](https://leetcode.com/problems/minimum-unique-word-abbreviation/) | [c++](./src/411_Minimum_Unique_Word_Abbreviation/main.cpp) |  | | | | Hard |
-| 413 | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) |  | | | |  | Medium |
+| 413 | [$Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | [c++](./src/413_Arithmetic_Slices/main.cpp) | | | |  | Medium |
 | 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/) | [c++](./src/416_Partition_Equal_Subset_Sum/main.cpp) | | | | | Medium |
+| 418 | [Sentence Screen Fitting](https://leetcode.com/problems/sentence-screen-fitting/) | [c++](./src/418_Valid_Word_Abbreviation/main.cpp) | | | | | Medium |
 | 419 | [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/) | [c++](./src/419_Battleships_in_a_Board/main.cpp) | | | | | Medium |
+| 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [c++](./src/424_Longest_Repeating_Character_Replacement/main.cpp) | | | | | Medium |
 | 435 | [$Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [c++](./src/435_Non_overlapping_Intervals/main.cpp) | | | | | Medium |
 | 438 | [$Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [c++](./src/438_Find_All_Anagrams_in_a_String/main.cpp) | | | | | Medium |
+| 444 | [Sequence Reconstruction](https://leetcode.com/problems/sequence-reconstruction/submissions/) | [c++](./src/444_Sequence_Reconstruction/main.cpp) | | | | | Medium |
+| 446 | [Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/submissions/) | [c++](./src/446_Arithmetic_Slices_II_Subsequence/main.cpp) | | | | | Hard |
 | 449 | [$Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/) | [c++](./src/449_Serialize_and_Deserialize_BST/main.cpp) | | | | | Medium |
 | 450 | [$Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [c++](./src/450_Delete_Node_in_a_BST/main.cpp) | | | | | Medium |
 | 452 | [$Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/submissions/) | [c++](./src/452_Minimum_Number_of_Arrows_to_Burst_Balloons/main.cpp) | | | | | Medium |
+| 454 | [$4Sum II](https://leetcode.com/problems/4sum-ii/) | [c++](./src/454_4Sum_II/main.cpp) | | | | | Medium |
+| 457 | [Circular Array Loop](https://leetcode.com/problems/circular-array-loop/) | [c++](./src/457_Circular_Array_Loop/main.cpp) | | | | | Medium |
 | 459 | [$Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/submissions/) | [c++](./src/459_Repeated_Substring_Pattern/main.cpp) | | | | | Easy |
 | 460 | [LFU Cache](https://leetcode.com/problems/lfu-cache/submissions/) | [c++](./src/460_LFU_Cache/main.cpp) | | | | | Hard |
+| 464 | [Can I Win](https://leetcode.com/problems/can-i-win/) | [c++](./src/464_Can_I_Win/main.cpp) | | | | | Medium |
 | 474 | [Ones and Zeros](https://leetcode.com/problems/ones-and-zeroes/) |  | | | | | Medium |
 | 480 | [$Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) | | [python](./src/480_Sliding_Window_Median) | | | | Hard |
+| 486 | [Predict the Winner](https://leetcode.com/problems/predict-the-winner/) | [c++](./src/486_Predict_the_Winner/main.cpp) |  | | | | Medium |
+| 487 | [$Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/) | [c++](./src/487_Max_Consecutive_Ones_II/main.cpp) |  | | | | Medium |
 | 494 | [Target Sum](https://leetcode.com/problems/target-sum/) |  | [python](./src/494_Target_Sum/main.py) | | | | Medium |
 | 496 | [$Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/submissions/) | [c++](./src/496_Next_Greater_Element_I/main.cpp) | [python](./src/496_Next_Greater_Element_I/main.py) | | | | Easy |
 | 503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [c++](./src/503_Next_Greater_Element_II/main.cpp) | [python](./src/503_Next_Greater_Element_II/main.py) | | | | Medium |
