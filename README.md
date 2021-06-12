@@ -42,6 +42,7 @@ To compile each src code
 | 69 | [$Sqrt(x)](https://leetcode.com/problems/sqrtx/submissions/) | [c++](./src/69_Sqrt_X/main.cpp) |  | | | | Easy |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/submissions/) |  | [python](./src/70_Climing_Stairs/main.py) | | | | Easy |
 | 72 | [$Edit Distance](https://leetcode.com/problems/edit-distance/) | [c++](./src/72_Edit_Distance/main.cpp) | [python](./src/72_Edit_Distance/main.py) | | | | Hard |
+| 75 | [$Sort Colors](https://leetcode.com/problems/sort-colors/) |  | [python](./src/75_Sort_Colors/main.py) | | | | Medium |
 | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [c++](./src/76_Minimum_Window_Substring/main.cpp) |  | | | | Hard |
 | 77 | [$Combinations](https://leetcode.com/problems/combinations/) |  | [python](./src/77_Combinations/main.py) | | | | Medium |
 | 78 | [Subsets](https://leetcode.com/problems/subsets/) | [c++](./src/78_subsets/main.cpp) | [python](./src/78_subsets/main.py) | | | | Medium |
@@ -105,6 +106,7 @@ To compile each src code
 | 297 | [$Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [c++](./src/297_Serialize_and_Deserialize_Binary_Tree/main.cpp) | | | | | Hard |
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [c++](./src/300_Longest_Increasing_Subsequence/main.cpp) | [python](./src/300_Longest_Increasing_Subsequence/main.py) | | | | Medium |
 | 302 | [$Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/) | [c++](./src/302_Smallest_Rectangle_Enclosing_Black_Pixels/main.cpp) |  | | | | Hard |
+| 307 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | [c++](./src/307_Range_Sum_Query_Mutable/main.cpp) | | | | | Medium |
 | 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [c++](./src/309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown/main.cpp) | | | | | Medium |
 | 310 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/submissions/) |  | | | | | Medium |
 | 311 | [Sparse Matrix Multiplication](https://leetcode.com/problems/sparse-matrix-multiplication/) | [c++](./src/311_Sparse_Matrix_Multiplication/main.cpp) | | | | | Medium |
@@ -159,6 +161,7 @@ To compile each src code
 | 480 | [$Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) | | [python](./src/480_Sliding_Window_Median) | | | | Hard |
 | 486 | [Predict the Winner](https://leetcode.com/problems/predict-the-winner/) | [c++](./src/486_Predict_the_Winner/main.cpp) |  | | | | Medium |
 | 487 | [$Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/) | [c++](./src/487_Max_Consecutive_Ones_II/main.cpp) |  | | | | Medium |
+| 493 | [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) | [c++](./src/493_Reverse_Pairs/main.cpp) | | | | | Hard |
 | 494 | [Target Sum](https://leetcode.com/problems/target-sum/) |  | [python](./src/494_Target_Sum/main.py) | | | | Medium |
 | 496 | [$Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/submissions/) | [c++](./src/496_Next_Greater_Element_I/main.cpp) | [python](./src/496_Next_Greater_Element_I/main.py) | | | | Easy |
 | 503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [c++](./src/503_Next_Greater_Element_II/main.cpp) | [python](./src/503_Next_Greater_Element_II/main.py) | | | | Medium |
@@ -166,12 +169,17 @@ To compile each src code
 | 518 | [$Coin Change 2](https://leetcode.com/problems/coin-change-2/submissions/) | [c++](./src/518_Coin_Change_2/main.cpp) | [python](./src/518_Coin_Change_2/main.py) | | | [java](./src/518_Coin_Change_2/Main.java) | Medium |
 | 538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [c++](./src/538_Convert_BST_to_Greater_Tree/main.cpp) | | | |  | Medium |
 | 540 | [$Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/) | [c++](./src/540_Single_Element_in_a_Sorted_Array/main.cpp) | | | | | Medium |
+| 542 | [01 Matrix](https://leetcode.com/problems/01-matrix/submissions/) | [c++](./src/542_01_Matrix/main.cpp) | | | | | Medium |
 | 556 | [$Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | [c++](./src/556_Next_Greater_Element_III/main.cpp) | | | | | Medium |
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) |                                                              | [python](./src/560_Subarray_Sum_Equals_K/main.py) | | | | Medium |
+| 562 | [$Longest Line of Consecutive One in Matrix](https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix/) | [c++](./src/562_Longest_Line_of_Consecutive_One_in_Matrix/main.cpp) |  | | | | Medium |
 | 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [c++](./src/567_Permutation_in_String/main.cpp) | | | | | Medium |
+| 568 | [$Maximum Vaccation Days](https://leetcode.com/problems/maximum-vacation-days/) | [c++](./src/568_Maximum_Vacation_Days/main.cpp) | | | | | Hard |
+| 572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [c++](./src/572_Subtree_of_Another_Tree/main.cpp) | | | | | Easy |
 | 582 | [Kill Process](https://leetcode.com/problems/kill-process/) |  | | | | | Medium |
 | 583 | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | [c++](./src/583_Delete_Operation_for_Two_Strings/main.cpp) | | | | | Medium |
 | 588 | [$Design In-Memory File System](https://leetcode.com/problems/design-in-memory-file-system/) | [c++](./src/588_Design_In_Memory_File_System/main.cpp) |  |  |  |  | Hard |
+| 629 | [K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/) | [c++](./src/629_K_Inverse_Pairs_Array/main.cpp) | | | | | Hard |
 |635|[$Design Log Storage System](https://leetcode.com/problems/design-log-storage-system/)|[c++](./src/635_Design_Log_Storage_System/main.cp)| | | | |Medium|
 |644|[$Maximum Average Subarray II](https://leetcode.com/problems/maximum-average-subarray-ii/submissions/)|[c++](./src/644_Maximum_Average_Subarray_II/main.cpp)| [python](./src/644_Maximum_Average_Subarray_II/main.py) | | | [java](./src/644_Maximum_Average_Subarray_II/Main.java) |Hard|
 |645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[c++](./src/645_Set_Mismatch/main.cpp)|  | | |  |Easy|
@@ -179,6 +187,8 @@ To compile each src code
 |651|[4 Keys Keyboard](https://leetcode.com/problems/4-keys-keyboard/submissions/)|| [python](./src/651_4_Keys_Keyboard/main.py) | | | |Medum|
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/)|[c++](./src/654_Maximum_Binary_Tree/main.cpp)| [python](./src/654_Maximum_Binary_Tree/main.py) | | | |Medium|
 |658|[Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)|[c++](./src/658_Find_K_closest_elements/main.cp)| | | | [java](./src/658_Find_K_closest_elements/Main.java) |Medium|
+|662|[$Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)|[c++](./src/662_Maximum_Width_of_Binary_Tree/main.cpp)| | | |  |Medium|
+|676|[Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/)|[c++](./src/676_Implement_Magic_Dictionary/main.cpp)| | | |  |Medium|
 |698|[Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/submissions/)|[c++](./src/698_Partition_to_K_Equal_Sum_Subsets/main.cpp)| | | | [java](./src/698_Partition_to_K_Equal_Sum_Subsets/Main.java) |Medium|
 | 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) |  | [python](./src/700_Search_in_a_Binary_Search_Tree/main.py) |  |  |  | Easy |
 | 701 | [$Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [c++](./src/701_Insert_into_a_Binary_Search_Tree/main.cpp) |  | | | | Medium |
