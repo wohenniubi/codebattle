@@ -196,7 +196,14 @@ To compile each src code
 | 710 | [$Random Pick with Blacklist](https://leetcode.com/problems/random-pick-with-blacklist/) |  | [python](./src/710_Random_Pick_with_Blacklist/main.py) | | | | Hard |
 | 712 | [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | | [python](./src/712_Minimum_ASCII_Delete_Sum_for_Two_Strings/main.py) | | | | Medium |
 | 714 | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/) | [c++](./src/714_Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee/main.cpp) | | | | | Medium |
+| 715 | [Range Module](https://leetcode.com/problems/range-module/) | [c++](./src/715_Range_Module/main.cpp) | | | | | Hard |
 | 716 | [Max Stack](https://leetcode.com/problems/max-stack/) | [c++](./src/716_Max_Stack/main.cpp) |  |  |  |  | Easy |
+| 725 | [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/submissions/) | [c++](./src/725_Split_Linked_List_in_Parts/main.cpp) | | | | | Medium |
+| 729 | [My Calendar I](https://leetcode.com/problems/my-calendar-i/submissions/) | [c++](./src/729_My_Calendar_I/main.cpp) | | | | | Medium |
+| 731 | [My Calendar II](https://leetcode.com/problems/my-calendar-ii/submissions/) | [c++](./src/731_My_Calendar_II/main.cpp) | | | | | Medium |
+| 732 | [My Calendar III](https://leetcode.com/problems/my-calendar-iii/) | [c++](./src/732_My_Calendar_III/main.cpp) | | | | | Hard |
+| 736 | [Parse Lisp Expression](https://leetcode.com/problems/parse-lisp-expression/) | [c++](./src/736_Parse_Lisp_Expression/main.cpp) | | | | | Hard |
+| 737 | [$Sentence Similarity II](https://leetcode.com/problems/sentence-similarity-ii/) | [c++](./src/737_Sentence_Similarity_II/main.cpp) | | | | | Medium |
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) |  | [python](./src/739_Daily_Temperatures/main.py) | | | | Medium |
 | 744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/submissions/) | [c++](./src/744_Find_Smallest_Letter_Greater_Than_Target/main.cpp) | | | | | Easy |
 | 752 | [$Open the lock](https://leetcode.com/problems/open-the-lock/submissions/) | [c++](./src/752_Open_the_Lock/main.cpp) | | | | | Medium |
