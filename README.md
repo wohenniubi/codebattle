@@ -25,10 +25,13 @@ To compile each src code
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) |  | [python](./src/20_Valid_Parentheses/main.py) | | | | Easy |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) |  | [python](./src/22_Generate_Parentheses/main.py) | | |  | Medium |
 | 23 | [Merge K Sorted Array](https://leetcode.com/problems/merge-k-sorted-lists/submissions/) | [c++](./src/23_Merge_k_Sorted_Lists/main.cpp) | | | |  | Hard |
+| 24 | [$Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [c++](./src/24_Swap_Nodes_in_Pairs/main.cpp) | | | | | Medium |
 | 25 | [$Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [c++](./src/25_reverse_nodes_in_k_group/main.cpp) | [python](./src/25_reverse_nodes_in_k_group/main.py) | | |  | Hard |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |  | [python](./src/26_Remove_Duplicates_from_Sorted_Array/main.py) | | | | Easy |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) |  | [python](./src/27_Remove_Element/main.py) | | | | Easy |
+| 33 | [$Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/) | [c++](./src/33_Search_in_Rotated_Sorted_Array/main.cpp) |  | | | | Medium |
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [c++](./src/34_Find_First_and_Last_Position_of_Element_in_Sorted_Array/main.cpp) | | | | [java](./src/34_Find_First_and_Last_Position_of_Element_in_Sorted_Array/Main.java) | Medium |
+| 35 | [$Search Insert Position](https://leetcode.com/problems/search-insert-position/submissions/) | [c++](./src/35_Search_Insert_Position/main.cpp) | | | |  | Easy |
 | 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [c++](./src/37_Sudoku_Solver/main.cpp) | | | |  | Hard |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) |  | [python](./src/42_Trapping_Rain_Water/main.py) | | | | Hard |
 | 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) |  | [python](./src/43_Multiply_Strings/main.py) | | | | Medium |
@@ -46,10 +49,12 @@ To compile each src code
 | 69 | [$Sqrt(x)](https://leetcode.com/problems/sqrtx/submissions/) | [c++](./src/69_Sqrt_X/main.cpp) |  | | | | Easy |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/submissions/) |  | [python](./src/70_Climing_Stairs/main.py) | | | | Easy |
 | 72 | [$Edit Distance](https://leetcode.com/problems/edit-distance/) | [c++](./src/72_Edit_Distance/main.cpp) | [python](./src/72_Edit_Distance/main.py) | | | | Hard |
+| 74 | [$Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [c++](./src/74_Search_a_2D_Matrix/main.cpp) |  | | | | Medium |
 | 75 | [$Sort Colors](https://leetcode.com/problems/sort-colors/) |  | [python](./src/75_Sort_Colors/main.py) | | | | Medium |
 | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [c++](./src/76_Minimum_Window_Substring/main.cpp) |  | | | | Hard |
 | 77 | [$Combinations](https://leetcode.com/problems/combinations/) |  | [python](./src/77_Combinations/main.py) | | | | Medium |
 | 78 | [Subsets](https://leetcode.com/problems/subsets/) | [c++](./src/78_subsets/main.cpp) | [python](./src/78_subsets/main.py) | | | | Medium |
+| 81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [c++](./src/81_Search_in_Rotated_Sorted_Array_II/main.cpp) |  | | | | Medium |
 | 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [c++](./src/82_Remove_Duplicates_from_Sorted_List_II/main.cpp) | | | | | Medium |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) |  | [python](./src/83_Remove_Duplicates_from_Sorted_List/main.py) | | | | Easy |
 | 91 | [$Decode Ways](https://leetcode.com/problems/decode-ways/) | [c++](./src/91_Decode_Ways/main.cpp) |  | | | | Medium |
@@ -84,7 +89,7 @@ To compile each src code
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [c++](./src/198_House_Robber/main.cpp) | [python](./src/198_House_Robber/main.py) | | | | Easy |
 | 201 | [$Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [c++](./src/201_Bitwise_AND_of_Numbers_Range/main.cpp) |  | | | | Medium |
 | 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | | [python](./src/204_Count_Primes/main.py) | | | | Easy |
-| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | | [python](./src/206_Reverse_Linked_List/main.py) | | | | Easy |
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [c++](./src/206_Reverse_Linked_List/main.cpp) | [python](./src/206_Reverse_Linked_List/main.py) | | | | Easy |
 | 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/submissions/) | [c++](./src/208_Implement_Trie/main.cpp) |  | | | | Medium |
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/submissions/) | [c++](./src/209_Minimum_Size_Subarray_Sum/main.cpp) | | | | | Medium |
 | 212 | [$Word Search II](https://leetcode.com/problems/word-search-ii/) | [c++](./src/212_Word_Search_II/main.cpp) |  | | | | Hard |
@@ -98,6 +103,7 @@ To compile each src code
 | 233 | [Number of Digit One](https://leetcode.com/problems/number-of-digit-one/submissions/) | [c++](./src/233_Number_of_Digit_One/main.cpp) | | | | | Hard |
 | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | | [python](./src/236_Lowest_Common_Ancestor_of_a_Binary_Tree/main.py) |  | | | Medium |
 | 239 | [$Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [c++](./src/239_Sliding_Window_Maximum/main.cpp) | [python](./src/239_Sliding_Window_Maximum/main.py) | | | | Hard |
+| 240 | [$Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/submissions/) | [c++](./src/240_Search_a_2D_Matrix_II/main.cpp) |  | | | | Medium |
 | 241 | [Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) | [c++](./src/241_Different_Ways_to_Add_Parentheses/main.cpp) | | | | | Medium |
 | 243 | [$Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/) | [c++](./src/243_Shortest_Word_Distance/main.cpp) | | | | | Easy |
 | 256 | [Paint House](https://leetcode.com/problems/paint-house/) | [c++](./src/256_Paint_House/main.cpp) |  | | | | Medium |
@@ -115,7 +121,7 @@ To compile each src code
 | 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [c++](./src/295_Find_Median_from_Data_Stream/main.cpp) | [python](./src/295_Find_Median_from_Data_Stream/main.py) | | | | Hard |
 | 296 | [$Best Meeting Point](https://leetcode.com/problems/best-meeting-point/) | [c++](./src/296_Best_Meeting_Point/main.cpp) |  | | | | Hard |
 | 297 | [$Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [c++](./src/297_Serialize_and_Deserialize_Binary_Tree/main.cpp) | | | | | Hard |
-| 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [c++](./src/300_Longest_Increasing_Subsequence/main.cpp) | [python](./src/300_Longest_Increasing_Subsequence/main.py) | | | | Medium |
+| 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [c++](./src/300_Longest_Increasing_Subsequence/main.cpp) | [python](./src/300_Longest_Increasing_Subsequence/main.py) | | | [java](./src/300_Longest_Increasing_Subsequence/Main.java) | Medium |
 | 302 | [$Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/) | [c++](./src/302_Smallest_Rectangle_Enclosing_Black_Pixels/main.cpp) |  | | | | Hard |
 | 307 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | [c++](./src/307_Range_Sum_Query_Mutable/main.cpp) | | | | | Medium |
 | 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [c++](./src/309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown/main.cpp) | | | | | Medium |
@@ -128,6 +134,8 @@ To compile each src code
 | 320 | [$Generalized Abbreviation](https://leetcode.com/problems/generalized-abbreviation/) | [c++](./src/320_Generalized_Abbreviation/main.cpp) |  |  |  |  | Medium |
 | 322 | [Coin Change](https://leetcode.com/problems/coin-change/) | [c++](./src/322_Coin_Change/main.cpp) | [python](./src/322_Coin_Change/main.py) | | | | Medium |
 | 323 | [$Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) | [c++](./src/323_Number_of_Connected_Components_in_an_Undirected_Graph/main.cpp) |  | | | | Medium |
+| 325 | [Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/) | [c++](./src/325_maximum_size_subarray_sum_equals_k/main.cpp) | | | | | Medium |
+| 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/submissions/) | [c++](./src/328_Odd_Even_Linked_List/main.cpp) | | | | | Medium |
 | 333 | [Largest BST Tree](https://leetcode.com/problems/largest-bst-subtree/) | [c++](./src/333_Largest_BST_Subtree/main.cpp) |  | | | | Medium |
 | 337 | [House Robber III](https://leetcode.com/problems/house-robber-iii/) |  | [python](./src/337_House_Robber_III/main.py) | | | | Medium |
 | 341 | [$Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) |  | [python](./src/341_Flatten_Nested_List_Iterator/main.py) | | | | Medium |
