@@ -247,6 +247,7 @@ To compile each src code
 | 788 | [Rotated Digits](https://leetcode.com/problems/rotated-digits/submissions/) | [c++](./src/788_Rotated_Digits/main.cpp) | | | | | Easy |
 | 803 | [Bricks Falling When Hit](https://leetcode.com/problems/bricks-falling-when-hit/submissions/) | [c++](./src/803_Bricks_Falling_When_Hit/main.cpp) | | | | | Hard |
 | 809 | [Expressive Words](https://leetcode.com/problems/expressive-words/) | [c++](./src/809_Expressive_Words/main.cpp) | | | [js](./src/809_Expressive_Words/main.js) | | Medium |
+| 811 | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/) | [c++](./src/811_Subdomain_Visit_Count/main.cpp) | | |  | | Medium |
 | 815 | [Bus Routes](https://leetcode.com/problems/bus-routes/) | [c++](./src/815_Bus_Routes/main.cpp) | | |  | | Hard |
 | 837 | [New 21 Game](https://leetcode.com/problems/new-21-game/) | [c++](./src/837_New_21_Game/main.cpp) | | |  | | Medium |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [c++](./src/875_Koko_Eating_Bananas/main.cpp) | | |  | | Medium |
@@ -255,6 +256,7 @@ To compile each src code
 | 887 | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop/) | [c++](./src/887_Super_Egg_Drop/main.cpp) | [python](./src/887_Super_Egg_Drop/main.py) | | | | Hard |
 | 946 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/submissions/) | [c++](./src/946_Validate_Stack_Sequences/main.cpp) | | | | | Medium |
 | 969 | [Pancake Sorting](https://leetcode.com/problems/pancake-sorting/) |  | [python](./src/969_Pancake_Sorting/main.py) | | | | Medium |
+| 981 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/submissions/) | [c++](./src/981_Time_Based_Key_Value_Store/main.cpp) |  | | | | Medium |
 | 986 | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) |  | [python](./src/986_Interval_List_Intersections/main.py) | | | | Medium |
 | 990 | [Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/submissions/) | [c++](./src/990_Satisfiability_of_Equality_Equations/main.cpp) | | | | | Medium |
 | 998 | [Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/) | [c++](./src/998_Maximum_Binary_Tree_II/main.cp) | | | | | Medium |
